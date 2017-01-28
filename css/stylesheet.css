@@ -1,0 +1,20 @@
+* {font-family: serif;}
+
+.jumbotron {
+  text-align: center;
+  /*color: #497F7F;*/
+  font-family: Garamond;
+  background-color: gray;
+}
+
+body {
+  background-color: #D4E2E8;
+}
+
+img {
+  float: right;
+  margin-right: 30px;
+  border-radius: 20%;
+  border: 5px solid gray;
+
+}
